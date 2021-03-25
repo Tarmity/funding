@@ -129,12 +129,10 @@ p {
   
 } 
 
-
-
 /* Showcase */
 #showcase {
   background: url("../img/home.jpg") no-repeat center center/cover;
-  height: 600px;
+  height: 60rem;
 }
 
 #showcase .showcase-content {
@@ -151,6 +149,31 @@ p {
 #showcase .showcase-content p {
   font-size: 2rem;
   line-height: 1.7rem;
+}
+
+/* Brand */
+#brand {
+  background: #f4f4f4;
+  height: 40rem;
+}
+
+#brand .brand-statment {
+  text-align: center;
+  font-size: 1.7rem;
+  padding: 2rem 0 0 0;
+  margin: 2rem;
+}
+
+#brand .statment {
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+#brand hr {
+  max-width: 50rem;
+  margin: 2rem auto;
+  border: 0.1rem solid #333;
+  border-radius: 0.5rem;
 }
 
 /* Footer */
