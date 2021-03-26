@@ -188,7 +188,7 @@ text-align: center;
 }
 
 #features img {
-width: 15rem;
+width: 10rem;
 }
 
 #features h3 {
@@ -208,4 +208,15 @@ width: 15rem;
   background: #444;
   color: #fff;
   padding: 20px;
+}
+
+@media(max-width: 500px){
+  #showcase .showcase-content h1{
+    display: block;
+    font-size: 3rem;
+  }
+  #showcase .showcase-content p{
+    font-size: 1.4rem
+  }
+  
 }
