@@ -72,11 +72,15 @@ p {
 
 #content-header h1 {
   float: left;
-  padding-top: 2rem;
+  padding: 0 0 ;
 }
 
 #content-header h1 a {
-  font-size: 1.7rem;
+  /* font-size: 1.7rem; */
+}
+
+#content-header h1 a img {
+  height: 7rem;
 }
 
 #content-header ul {
@@ -90,6 +94,7 @@ p {
 
 #content-header ul li a {
   display:block;
+  margin-top: 1rem;
   padding: 2rem;
   text-align: center;
   font-size: 1.4rem;
@@ -231,10 +236,8 @@ width: 12rem;
   }
   
   .box {
-    /* float: left; */
     display:inline-block;
     width: 33%;
-    /* padding: 2rem; */
     text-align: center;
     }
     
