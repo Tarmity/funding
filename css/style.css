@@ -211,6 +211,28 @@ width: 12rem;
   color:blue;
 }
 
+/* Who we are */
+
+#who_we_are {
+  height: 400px;
+}
+
+#who_we_are .info-img {
+  float: left;
+  width: 50%;
+  background: url("../img/building.jpg") no-repeat;
+  min-height: 100%;
+}
+
+#who_we_are .info-content {
+  float: right;
+  width: 50%;
+  height: 100%;
+  text-align: center;
+  padding: 50px 30px;
+  overflow: hidden;
+}
+
 /* Footer */
 #main-footer {
   font-size: 1.7rem;
