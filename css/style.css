@@ -220,7 +220,7 @@ width: 12rem;
 #who_we_are .info-img {
   float: left;
   width: 50%;
-  background: url("../img/building.jpg") no-repeat;
+  background: url("../img/photo-1.jpg") no-repeat;
   min-height: 100%;
 }
 
@@ -231,6 +231,15 @@ width: 12rem;
   text-align: center;
   padding: 50px 30px;
   overflow: hidden;
+  
+}
+
+#who_we_are h2 {
+font-size: 3rem;
+}
+
+#who_we_are p {
+  font-size: 2rem;
 }
 
 /* Footer */
