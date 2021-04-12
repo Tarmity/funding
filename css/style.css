@@ -47,6 +47,11 @@ p {
 .btn-trans {
   opacity:  0.8;
 }
+
+.btn:hover{
+  background: mediumturquoise;
+  color: #333;
+}
 /* Padding */
 .py-1 {
   padding: 1rem 0;
