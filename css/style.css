@@ -115,7 +115,8 @@ p {
   background: #333;
   color: white;
   
-  /* overflow: auto; */
+  
+  overflow: auto;
   /* padding: 1rem 1rem; */
   margin: 10 auto;
 }
@@ -142,8 +143,8 @@ p {
   display: block;
   text-decoration: none;
   font-size: 1.2rem;
-  
   color: white;
+  padding: 8px;
   
 } 
 
