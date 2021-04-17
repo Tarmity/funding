@@ -80,12 +80,8 @@ p {
   padding: 0 0 ;
 }
 
-#content-header h1 a {
-  /* font-size: 1.7rem; */
-}
-
 #content-header h1 a img {
-  height: 7rem;
+  height: 6rem;
 }
 
 #content-header ul {
