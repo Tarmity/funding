@@ -69,6 +69,8 @@ p {
   padding: 3rem 0;
 }
 
+.line
+
 /* Content Header */
 
 #content-header {
@@ -187,15 +189,17 @@ p {
 
 #brand .statment {
   text-align: center;
-  font-size: 1.4rem;
+  font-size: 1.7rem;
 }
 
 #brand hr {
-  max-width: 50rem;
-  margin: 2rem auto;
   border: 0.1rem solid #333;
-  border-radius: 0.5rem;
-}
+  margin-top: 2rem;
+  max-width: 50%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+} 
 
 /* Features */
 #features {
@@ -220,8 +224,7 @@ width: 12rem;
 }
 
 #features hr {
-  width: 30%;
-  color:blue;
+  width: 20%;
 }
 
 /* Who we are */
