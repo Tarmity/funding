@@ -54,6 +54,10 @@ p {
   opacity:  0.8;
 }
 
+.clr {
+  clear:both;
+}
+
 .btn:hover{
   background: mediumturquoise;
   color: #333;
@@ -203,7 +207,7 @@ p {
 
 /* Features */
 #features {
- margin: 4rem auto;
+ margin: 4rem 10rem;
 }
 
 .box {
