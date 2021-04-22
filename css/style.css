@@ -23,7 +23,7 @@ h1,h2,h3 {
 }
 
 p {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 /* Utility Classes*/
@@ -35,7 +35,7 @@ p {
 }
 
 .text-primary {
-  
+
 }
 
 .container-navbar {
