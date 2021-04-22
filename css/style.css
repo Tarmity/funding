@@ -103,6 +103,7 @@ p {
 #content-header ul {
   float: right;
   list-style: none;
+
 }
 
 #content-header ul li {
@@ -115,6 +116,7 @@ p {
   padding: 2rem;
   text-align: center;
   font-size: 1.4rem;
+  color:#044cac;
 }
 
 #content-header ul li a i {
