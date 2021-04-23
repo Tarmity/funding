@@ -171,7 +171,12 @@ p {
 #showcase .showcase-content {
   text-align: center;
   color: white;
-  padding-top: 25rem;
+  margin-top: 20rem;
+  background: #044cac ;
+  background-size: 30rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  opacity: .7;
 }
 
 #showcase .showcase-content h1 {
